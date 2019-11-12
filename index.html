@@ -16,6 +16,8 @@
         padding: 0;
       }
     </style>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCSbeiJA-k28D8hjWTzjXB_Z_GB7RMzsGs&callback=initMap"
+    async defer></script>
   </head>
   <body>
     <div id="map"></div>
@@ -24,6 +26,7 @@
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
           zoom: 10,
+          disableDefaultUI: true,
         });
         var californiaLayer = new google.maps.KmlLayer({
           url: 'https://RookKin.github.io/tracking-map/pct/California.kmz',
@@ -45,15 +48,22 @@
           map: map,
         });
         
-        google.maps.event.addListener(garminLayer, 'defaultviewport_changed', function() {
+        google.maps.event.addListener(garminLayer, 'click', function() {
           var getCenter = garminLayer.getDefaultViewport().getCenter();
           map.setCenter(getCenter);
           console.log(getCenter.toUrlValue(6));
-        });
+          });
+        
+        /*google.maps.event.addListener(garminLayer, 'defaultviewport_changed', function() {
+          var getCenter = garminLayer.getDefaultViewport().getCenter();
+          map.setCenter(getCenter);
+          console.log(getCenter.toUrlValue(6));
+        });*/
+        
+
       }
+      
       google.maps.event.addDomListener(window, "load", initMap);      
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCSbeiJA-k28D8hjWTzjXB_Z_GB7RMzsGs&callback=initMap"
-    async defer></script>
   </body>
 </html>
