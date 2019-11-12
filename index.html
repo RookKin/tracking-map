@@ -28,20 +28,27 @@
         var californiaLayer = new google.maps.KmlLayer({
           url: 'https://RookKin.github.io/tracking-map/pct/California.kmz',
           map: map,
+          preserveViewport: true;
         });
         
         var oregonLayer = new google.maps.KmlLayer({
           url: 'https://RookKin.github.io/tracking-map/pct/Oregon.kmz',
           map: map,
+          preserveViewport: true;
+
         });
         
         var washingtonLayer = new google.maps.KmlLayer({
           url: 'https://RookKin.github.io/tracking-map/pct/Washington.kmz',
           map: map,
+          preserveViewport: true;
+
         });
         var garminLayer = new google.maps.KmlLayer({
           url: 'https://us0.inreach.garmin.com/Feed/Share/AKPCT',
           map: map,
+          preserveViewport: true;
+
         });
         google.maps.event.addListener(garminLayer, 'defaultviewport_changed', function() {
           var getCenter = garminLayer.getDefaultViewport().getCenter();
