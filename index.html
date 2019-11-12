@@ -46,6 +46,8 @@
         
         var garminLayer = new google.maps.KmlLayer({
           url: 'https://us0.inreach.garmin.com/Feed/Share/AKPCT',
+          suppressInfoWindows: true,
+          preserveViewport: false,
           map: map,
         });
         
