@@ -1,0 +1,961 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Campo CA - 1.3mi",
+                "desc": "Distance from trail: 0.00<br>Section: A1<br><br>32.607600, -116.469977<br>+32° 36' 27.36\", -116° 28' 11.92\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.469977,
+                    32.6076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lake Morena - 20.6mi",
+                "desc": "Buy: Small Store<br><br>- Small store 5min walk from campground<br>- Desc: Campo<br>- Distance from trail: 0.00<br>- Section: A1<br>- Lat/Lon: 32.607600 -116.469977http://www.sdcounty.ca.gov/parks/Camping/lake_morena.html",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/170-grocerystore.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.514688,
+                    32.682477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mt. Laguna - 43.0mi",
+                "desc": "Buy: Small Grocery Store<br><br>- Desc: Mt Laguna<br>- Distance from trail: 0.00<br>- Section: A7<br>- Lat/Lon: 32.872580 -116.416940<br>- Expensive<br>www.LagunaMountain.com (http://www.LagunaMountain.com)",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/170-grocerystore.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.418739,
+                    32.867367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Julian, CA - 77.6mi",
+                "desc": "Grocery Store",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/61-green-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.59079,
+                    33.076663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Warner Springs - 109mi",
+                "desc": "Mail Drop:  <br>C/O General Delivery<br>Post Office<br>Warner Springs, CA 92086<br>- Desc: Warner Springs<br>- Distance from trail: 1.00<br>- Section: A14<br>- Lat/Lon: 33.283520 -116.634730",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.633728,
+                    33.281944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Idyllwild - 178.6mi",
+                "desc": "Buy: Full Resupply<br>Leave PCT at Saddle Junction - 2.5miles on Devil's Side Trail - hitch 2.6mi<br><br>- Desc: Idyllwild<br>- Distance from trail: 4.50<br>- Section: B9<br>- Lat/Lon: 33.743630 -116.713240",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/170-grocerystore.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.7196,
+                    33.739868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabazon, CA - 209.6mi",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/61-green-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.773165,
+                    33.918888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Big Bear City - 265.3mi",
+                "desc": "Buy: Full Resupply<br><br>- Supermarket<br>- Section: C7<br>- Lat/Lon: 34.261783 -116.846488<br>- +34° 15' 42.42\", -116° 50' 47.36\"Distance from trail:    <br>5 miles on Hwy 18   <br>3.75 miles to Motel 6 via Van Deusen Cyn",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/170-grocerystore.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.846488,
+                    34.261783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cajon Pass (I-15) - 342.1",
+                "desc": "Buy: Large Convenience Store<br><br>- C17<br>- 0.6 mi NW town)<br>- http://www.4jeffrey.net (http://www.4jeffrey.net/pct/a.htm)<br>- http://tonynitz.bizland.com/hikertrash (http://tonynitz.bizland.com/hikertrash/Maps/maps_PCT/CA_C15-C17.jpg)<br>- http://www.wikimapia.org (http://www.wikimapia.org/#lat=34.309856&lon=-117.471077&z=16&l=0&m=a&v=2)<br>- Expensive<br><br>- 34.309856 -117.471077",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/170-grocerystore.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.473652,
+                    34.311309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wrightwood - 363.3 Miles",
+                "desc": "Buy: Full Resupply at Supermarket<br><br>- D3 <br><br>- 363.6 \tWrightwood <br><br>- (Acorn Cyn Tr, 4.5 mi N) \tTown<br>- ~5 miles from Hwy 2 http://www.4jeffrey.net/pct/a.htm<br>http://www.wikimapia.org (http://www.wikimapia.org/#lat=34.35938&lon=-117.632589&z=14&l=0&m=a&v=2)<br><br>34.358583, -117.635144<br>+34° 21' 30.90\", -117° 38' 6.52\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/170-grocerystore.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.635144,
+                    34.358583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Saufleys  (0.9 W) - 454.4 mi",
+                "desc": "Buy: Full Resupply<br><br>- D13<br>- Hiker Heaven (0.9 W) <br><br>- Open April 1 to June 30, and September 1 to October 31www.4jeffrey.net/pct/a.htm (http://www.4jeffrey.net/pct/a.htm)<br>www.wikimapia.org (http://www.wikimapia.org/#lat=34.4964859&lon=-118.3438468&z=17&l=0&m=a&v=2)<br><br>34.496530 -118.344061<br>34°29'48\"N   118°20'36\"W<br><br>PCT Hiker (your name)<br>c/o The Saufley's<br>11861 Darling Road<br>Agua Dulce, CA 91390<br><br>www.hikerheaven.com/ (http://www.hikerheaven.com/)<br>(661)268-1235",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/170-grocerystore.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.326187,
+                    34.4963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lake Hughes, CA - 486.3mi",
+                "desc": "2.3mi walk or hitch<br>Small Grocery Store",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/61-green-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.444122,
+                    34.676196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hikertown Hostel",
+                "desc": "Mail Drop: Small Food Supplement<br><br>- Distance from trail: 0.00<br>- Section: E10Hikertown Hostel <br>26803 W. Ave. C-15 <br>Lancaster, CA 93536 <br>Please hold for 'Your Name' <br> <br>Hike Town Hostel (http://mysite.verizon.net/resplj4y/welcometohikertownhostel/)<br><br>34.776960, -118.603390<br>+34° 46' 37.06\", -118° 36' 12.20\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/61-green-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.601167,
+                    34.777099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tehachapi - 558.3mi",
+                "desc": "Buy: Full Resupply Supermarket<br><br>- Distance from trail: 10.00<br>- Section: E15<br>- Lat/Lon: 35.144740 -118.452460Distance from trail:  <br>From Hwy 58 or Willow Springs Road it's <br>~9.5 miles.",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/170-grocerystore.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.441108,
+                    35.131336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mojave, CA - 566.6",
+                "desc": "Hitch on Hwy 58<br>Tehachapi is 9mi to the left<br>Mojave is 11mi to the right",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/61-green-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.174063,
+                    35.053612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Onyx, CA - 652.0mi",
+                "desc": "Large Convenience Store",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/61-green-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.22342,
+                    35.693209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lake Isabella, CA - 652.0mi",
+                "desc": "35mi hitch on Hwy 178 from Walker Pass<br>Full Resupply<br>Supermarket",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.484437,
+                    35.619539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kennedy Meadows - 702.8 mi",
+                "desc": "Mail Drop: <br><br>- End of S. Cali Section - PCT Data Book <br><br>- Start Carrying Bear Canister<br>- Shoe Change - Better Tread<br>- Distance from trail: 1.00<br>- Section: G7<br>- Lat/Lon: 36.018540 -118.123580http://www.4jeffrey.net (http://www.4jeffrey.net/pct/e.htm)<br>http://www.wikimapia.org (http://www.wikimapia.org/#lat=36.019036&lon=-118.123455&z=17&l=0&m=a&v=2)<br><br>Be sure to send your package at least 2 weeks  <br>in advance. <br> <br>Kennedy Meadows has a new address for UPS and USPS: <br> <br>Your Name <br>c/o KENNEDY MEADOWS GENERAL STORE <br>96740 BEACH MEADOW RD <br>INYOKERN CA 93527 <br> <br>Their old address still works though: <br>Your Name <br>c/o Kennedy Meadows General Store <br>P.O. Box 3-A5 <br>Inyokern, CA 93527<br> <br>36.023333, -118.133889<br>+36° 1' 24.00\", -118° 8' 2.00\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.133886,
+                    36.023345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lone Pine, CA - 749.6mi",
+                "desc": "Distance from trail: 24.00<br>Section: G12<br>36.606480, -118.063490<br>+36° 36' 23.33\", -118° 3' 48.56\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/61-green-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.06349,
+                    36.60648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Independence - 790.2mi",
+                "desc": "Mail Drop: <br><br>- Distance from trail: 24.00<br>- Section: H4<br>- Lat/Lon: 36.802510 -118.200330<br>Your Name<br>c/o General Delivery<br>Independence, CA 93526<br><br><br>Courthouse Motel will hold a package.<br><br>UPS street address:<br><br>Courthouse Motel<br>157 N.Edwards St<br>Independence, CA 93526<br>Please hold for 'Your Name'<br><br>USPS:<br><br>Courthouse Motel<br>P.O Box 29<br>Independence, CA 93526<br>Please hold for 'Your Name'<br><br>Discounts for PCT hikers.<br><br>www.CourthouseMotel.oov.biz (http://www.CourthouseMotel.oov.biz)",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/61-green-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.199671,
+                    36.80252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Muir Trail Ranch -",
+                "desc": "Distance from trail: 1.50<br>Section: H13<br><br>37.236620, -118.879100<br>+37° 14' 11.83\", -118° 52' 44.76\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.8791,
+                    37.23662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vermilion Valley Resort - 877.2 mi",
+                "desc": "- H15<br>- Elev 7850<br>- Distance from trail: 5.00Comment: <br>Distance from trail: <br>~ 10 minutes by bi-daily ferry or about 5 miles on foot. <br>Hint: take the ferry. <br> <br> <br>USPS is the preferred method. If you send your <br>package only 2 weeks in advance, use UPS. It <br>will take at least 2 weeks regardless of method. <br> <br>25lbs (11 kg) limit on all packages. Be sure to <br>mark with your estimated time of arrival (ETA). All packages will be held 30 days past ETA, then put <br>in the hiker box. <br> <br>USPS: <br> <br>Vermilion Valley Resort <br>P.O. Box 258 <br>Lakeshore, CA 93634 <br>Please Hold for 'Your Name'<br><br>edisonlake.com (http://edisonlake.com/site/)<br><br>37.376500, -119.012250<br>+37° 22' 35.40\", -119° 0' 44.10\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.01225,
+                    37.3765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mono Hot Springs - 872.mi",
+                "desc": "From VVR",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.012882,
+                    37.325972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reds Meadow/Mammoth Lakes - 906.6mi",
+                "desc": "Buy: Possible Alternative to VVR - Full Resupply - Supermarket<br><br>8mi bus ride or hitch from Red's Meadow",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/61-green-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.992002,
+                    37.62715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tuolumne Meadows - 942.7mi",
+                "desc": "Buy: Small Grocery Store<br><br>- H23<br>- Elev 8690<br>-  95389<br>- 209.372.842937.875000, -119.350000<br>+37° 52' 30.00\", -119° 20' 60.00\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.35033,
+                    37.87498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kennedy Meadow Resort - 1018.3 mi",
+                "desc": "- 10 mi hitch on Hwy 108 from Sonora Pass<br>- Small store - Unsure Resupply<br>- 209-965-3900<br>- UPS Only<br>  Kennedy Meadows  P.O. Box 4010  Sonora, Ca 95370<br>www.kennedymeadows.com (http://kennedymeadows.com/)",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.735646,
+                    38.314132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bridgeport, CA - 1018.3mi",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.231446,
+                    38.255635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Echo Lake, CA - 1094.5mi",
+                "desc": "Small Store<br>Distance from trail: 0.00<br>Section: J9<br>38.834310, -120.044200<br>+38° 50' 3.52\", -120° 2' 39.12\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.0442,
+                    38.83431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Lake Tahoe - 1094.5mi",
+                "desc": "Buy: Full Resupply<br><br>- Stop Carrying Bear Canister<br>- Distance from trail: 9.50<br>- Section: J938.921300, -119.992700<br>+38° 55' 16.68\", -119° 59' 33.72\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/170-grocerystore.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.992654,
+                    38.921389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Truckee, CA - 1155.8mi",
+                "desc": "10 mi hitch on HWY 40<br>Full Resupply<br>Supermarket<br><br>P.O. - 96161<br>530.587.7158<br>Mon-Fri 9-4:30 Closed Sat",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.173003,
+                    39.345294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sierra City - 1197.6mi",
+                "desc": "Buy: Grocery Store<br><br>1mi hitch or walk on Hwy 49<br><br>39.736762, -120.478821",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/170-grocerystore.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.633934,
+                    39.565892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Downieville, CA - 1197.6mi",
+                "desc": "13mi hitch on Hwy 49<br>Grocery Store",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.825284,
+                    39.558655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bucks Lake, CA - 1265.4mi",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.199443,
+                    39.880229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quincy, CA - 1289.3mi",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.947656,
+                    39.936762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Belden Post Office - 1289.3mi",
+                "desc": "- Distance from trail: 1.00<br>- Section: M11<br>- Lat/Lon: 40.005160 -121.262760<br>- Store 1mi E of town<br>- Cash Only!<br><br>Comment: <br>Your Name <br>c/o General Delivery <br>Belden, CA 95915 <br> <br>Afteryou cross the Belden Bridge to the highway, you can road walk to theP.O. the climb up the hill behind the P.O. to the trail.",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.262498,
+                    40.005331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chester, CA - 1335.8mi",
+                "desc": "8mi hitch on Hwy 36<br>Full Resupply<br>Supermarket<br>Close to halfway mark",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/61-green-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.235386,
+                    40.302021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drakesbad Guest Ranch - 1353.3mi",
+                "desc": "Mail Drop:<br><br>- Distance from trail: 0.5mi<br>- Section: N9Comment: <br>Drakesbad is a designated mail drop, approved by the National Park Service, with mail available 24/7. <br> <br>Hikers Name <br>c/o Drakesbad Guest Ranch <br>End of Warner Valley Road <br>Chester, California 96020 <br>Estimated day of arrival <br> <br>Hikersare welcomed anytime for meals (low cost), logistic (transport tomedical facilities), clean up, (shower or tub) laundry, relaxation inhot spring pool. Drakesbad is within 40 miles from the halfway mark anda good reason for celebration.National Park Service campground is in1/4 mile distance right on the PCT. <br> <br>Larger groups please advise us of your arrival in advance by calling 530 529 1512 Ext. 120 and leave message. <br> <br>Billie and Ed Fiebiger <br>Ranch Host <br>Drakesbad Guest Ranch <br> <br>email:  billie@goldrush.com <br>web:  www.drakesbad.com (http://www.drakesbad.com)<br> <br>40.444190, -121.403840<br>+40° 26' 39.08\", -121° 24' 13.82\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/61-green-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.40384,
+                    40.44419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hat Creek (Old Station PO) - 1377.7mi",
+                "desc": "Mail Drop: <br><br>- Distance from trail: 0.00<br>- Section: N13<br>Your Name <br>c/o General Delivery <br>Old Station, CA 96071<br><br>40.651200, -121.459530<br>+40° 39' 4.32\", -121° 27' 34.31\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45953,
+                    40.6512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burney - 1415.9mi",
+                "desc": "Full Supermarket",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/61-green-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.67167,
+                    40.88157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burney Falls State Park - 1423.6mi",
+                "desc": "Distance from trail: 0.00<br>Section: N19<br><br>Fri-Sat-Sun-Mon: 9-5 <br>Closed Tue-Wed-Thur <br><br>Your Name <br>c/o Burney Falls Camp Services  <br>24898 Hwy. 89 <br>Burney, CA 96013 <br><br>41.012550, -121.650390<br>+41° 0' 45.18\", -121° 39' 1.40\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.65039,
+                    41.01255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Castella - 1506.5mi",
+                "desc": "- Distance from trail: 2.25<br>- Section: O11<br>Your Name  <br>c/o General Delivery  <br>Castella, CA 96017 <br>  <br> <br>Ammarati's Market adjacent to the PO will hold a package, no charge.  <br> <br>UPS: <br> <br>Ammarati's Market <br>20107 Castle Creek Road <br>Castella, CA 96017 <br>Please hold for 'Your Name' <br><br>41.148540, -122.317140<br>+41° 8' 54.74\", -122° 19' 1.70\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.31714,
+                    41.14854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dunsmuir - 1506.5mi",
+                "desc": "4.4mi Hitch on I-5<br>Grocery Store<br>Distance from trail: 5.00<br>Section: P1<br><br>41.212930 -122.271580<br>+41° 12' 46.55\", -122° 16' 17.69\"<br><br>Your Name <br>c/o General Delivery <br>Dunmuir, CA 96025",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/61-green-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.271652,
+                    41.212625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mount Shasta - 1506.5mi",
+                "desc": "Full Supermarket",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.320654,
+                    41.321537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Etna - 1606.3mi",
+                "desc": "15mi hitch from Etna SUmmit<br>Full grocery store<br>Distance from trail: 9.75<br>Section: P14<br><br>41.456389, -122.894536<br>+41° 27' 23.00\", -122° 53' 40.33\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/170-grocerystore.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.894536,
+                    41.456389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seiad Valley - 1662.1mi",
+                "desc": "- Distance from trail: 0.00<br>- Section: Q9<br>- Lat/Lon: 41.842170 -123.196190",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.19619,
+                    41.84217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Callahan's 1726.6mi",
+                "desc": "Distance from trail: 0.25<br>Section: R10<br><br>If you don't want to go down the hill to Ashland, use Callahan'sRestaurant about 1/4 mile south of the PCT where it hits I-5 insouthern Oregon. <br> <br>Ron & Donna Bergquist <br>Please hold for Your Name <br>7100 Old Hwy. 99 <br>Ashland, OR 97520 <br> <br>Plainly mark with your estimated date of arrival! Call them at one of the following numbers to confirm delivery: <br> <br>(800) 286-0507 or (541) 482-1299 <br> <br>42.073700, -122.603000<br>+42° 4' 25.32\", -122° 36' 10.80\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.603,
+                    42.0737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ashland OR - 1726.6mi",
+                "desc": "Buy:<br><br>- Distance from trail: 23.50 mi<br><br>- Section: R9<br>- Lat/Lon: 42.185400 -122.669367<br>- Full Supermarket<br>- 12.9mi hitch on Hwy 99 & I-5http://www.emeraldlake.com/pctguide - Ashland (http://www.emeraldlake.com/pctguide/pctashl.html)",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/170-grocerystore.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.699229,
+                    42.189076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Green Springs Inn",
+                "desc": "Buy:<br><br>- Distance from trail: 2.00<br>- Section:Green Springs Inn  <br>11470 Highway 66  <br>Ashland OR 97520  <br>Please hold for 'Your Name'  <br>  <br>GreenSprings Inn/Restaurant will hold a package, no charge. USPS or UPS,same address. Because I had another weird experience with USPS here,I'd recommend UPS. Restaurant is closed Wed/Thu now, but days ofoperation will be different in summer (don't know) <br>  <br>Verry good food!  <br>  <br>Address/more info here:<br>www.GreenSpringsInn.com (http://www.GreenSpringsInn.com)<br><br>Getting there - when you you pop out on Highway 66, walk the highway to the right a bit less than two miles. <br> <br>42.123310, -122.464986<br>+42° 7' 23.92\", -122° 27' 53.95\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.464986,
+                    42.12331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hyatt Lake Resort - 1750.2mi",
+                "desc": "Distance from trail: 1.25<br>Section: OR B5<br><br>UPS Only!<br> <br>Hyatt Lake Resort <br>7979 Hyatt Prarie Rd. <br>Ashland, OR 97520 <br>Please hold for 'Your Name'<br><br>42.171940, -122.466110<br>+42° 10' 18.98\", -122° 27' 58.00\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.46611,
+                    42.17194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fish Lake Resort - 1780.4mi",
+                "desc": "2mi walk on side trail or hitch on Hwy 140<br>Small Store<br>Distance from trail: 1.25<br>Section: OR B9<br><br>UPS Only! No outgoing mail:     <br>     <br>Your Name     <br>c/o Fish Lake Resort     <br>State Hwy 140, Mile Marker 30     <br>Medford, OR 97503  <br>ETA: (Estimated date of arrival)<br><br>Our tent rates are for a group of up to 4 people. So, it would be$18.00 for a no hook up sites. However, there is a free PCT hiker spotabout a 1/4 mile or less from the campground. Most of the PCT hikersstay there. We have a few who stay here, but why not save your money?We do have pay showers & laundry as well as the cafe & a gameroom with a TV if you want to catch up on what's going on in the world.<br>      <br>We are very hiker friendly. We accept hiker boxes for a$5.00 fee & we have a hiker scavenger box where you can take orleave whatever you need or don't want anymore. <br>  <br>www.fishlakeresort.net (http://www.fishlakeresort.net)<br><br>42.394004, -122.317293<br>+42° 23' 38.41\", -122° 19' 2.25\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.317293,
+                    42.394004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crater Lake Mazama Village - 1830.4mi",
+                "desc": "Mail Drop:<br><br>- 1.3mi walk to Mazama store<br>- Small Store<br>- Distance from trail: 3.50<br>- Section: OR C10Post Office: 4mi road walk<br><br>Your Name <br>c/o General Delivery <br>Crater Lake, OR 97604<br><br>http://www.emeraldlake.com/pctguide - Crater Lake<br> (http://www.emeraldlake.com/pctguide/pctcrat.html) <br>42.896983, -122.134888<br>+42° 53' 49.14\", -122° 8' 5.60\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.134888,
+                    42.896983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shelter Cove Resort - 1912.2mi",
+                "desc": "Buy:<br><br>- 1.4mi walk<br>- Small Store<br>- Distance from trail: 1.50<br>- Section: OR D13UPS Only! <br> <br>Shelter Cove Resort <br>West Odell Lake Road <br>Hwy 58, Crescent Lake, OR 97425 <br>Please Hold for 'Your Name'<br> <br>43.461800, -121.979200<br>+43° 27' 42.48\", -121° 58' 45.12\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9792,
+                    43.4618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Elk Lake Resort - 1958.3mi",
+                "desc": "Distance from trail: 1.00<br>Section: OR E7<br>No Resupply<br><br>Drop shipping packages: we charge a handling fee at time of pick up. Weaccept UPS or FedEx packages only at the resort. Do not send via the USPostal Service unless you give us a couple weeks lead-time. These willend up going to Bend instead of the resort. We only go to town once aweek to pick up P.O. Box packages. Make sure the package is critterproof (mouse/chipmunk) so try to box in a hard plastic tote. <br> <br>Address to: <br>Elk Lake Resort, <br>Attn: (your name) PCT Hiker <br>60,000 Century Dr. <br>Bend, OR 97701  <br> <br>At the bottom of the package, an estimated time of arrival would be good.  <br> <br>If you have to send: US Postal Service: Elk Lake Resort, P.O. Box 698, Bend, OR 97709.  <br> <br>Contact: <br>Web: www.elklakeresort.net/pct.php (http://www.elklakeresort.net/pct.php) <br>Elk Lake Resort <br>541-480-7378 <br>jwalsh@elklakeresort.net<br><br>43.981760, -121.807650<br>+43° 58' 54.34\", -121° 48' 27.54\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.80765,
+                    43.98176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sisters OR - 1989.5mi",
+                "desc": "15mi hitch from McKenzie Pass on Hwy 242<br>Full Resupply<br>Supermarket<br>Distance from trail: 20.00<br>Section: OR F1<br>44.290755, -121.548699<br>+44° 17' 26.72\", -121° 32' 55.32\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.548699,
+                    44.290755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Big Lake Youth Camp - 2000.9mi",
+                "desc": "Mail Drop -<br>Distance from trail: 1.50<br>Section: F2<br>No Resupply<br><br>Your Name <br>c/o Big Lake Youth Camp <br>13100 Highway 20 <br>Sisters, OR  97759 <br> <br>Phone: 503-794-4333 <br>Web: www.biglake.org (http://www.biglake.org/) <br> <br>44.371380, -121.866900<br>+44° 22' 16.97\", -121° 52' 0.84\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8669,
+                    44.37138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Olallie Lake Resort - 2053.1mi",
+                "desc": "Small Store<br>Distance from trail: 0.25<br>Section: OR F7<br><br>Apparently the concession will not be open and is for sale. At this point it appears it won't be a possible maildrop for 2009. <br> <br>Read no further...  :(  <br>  <br>A very specific set of instructions exists  <br>for sending a mail drop to Olallie. Those  <br>instructions will not be duplicated here.  <br>  <br>Visit their website for instructions at:  <br>www.olallielake.com (http://www.olallielake.com)<br><br>44.813950, -121.789500<br>+44° 48' 50.22\", -121° 47' 22.20\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.7895,
+                    44.81395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Timberline Lodge - 2107.3mi",
+                "desc": "Mail Drop -<br><br>- No Resupply<br>- Distance from trail: 0.00<br>- Section: OR G1The WY'East Store accepts maildrops - $4 fee.  Write \"Hold for PCT Hiker\" on box<br><br>Your Name<br>c/o Timberline Ski Area<br>WY'East Store<br>Timberline Lodge<br>Timberline, OR 97028<br><br>45.330740, -121.711030<br>+45° 19' 50.66\", -121° 42' 39.71\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.71103,
+                    45.33074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cascade Locks OR - 2155.0mi",
+                "desc": "Buy -<br><br>- Full Resupply<br>- Distance from trail: 0.00<br>- Section: OR G7http://www.emeraldlake.com/pctguide - Cascade Locks (http://www.emeraldlake.com/pctguide/pctcasc.html)<br><br>45.665852, -121.895397<br>+45° 39' 57.07\", -121° 53' 43.43\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/170-grocerystore.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.895397,
+                    45.665852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trout Lake WA - 2237.9mi",
+                "desc": "Distance from trail: 15.00<br>Section:<br><br>Update: <br>As of Nov 1 2008 the only general store in town will close for good. There is still a cafe, gas station and hardware store <br> <br>Postholer notes: <br>Not recommended. Hitching is almost non-existent  <br>onthis forest service road. Although, trail angels will provide a rideback. Not for the independent hiker. Maybe for an emergency bail out. <br>  <br>Your Name <br>c/o General Delivery <br>Trout Lake, WA  98650 <br><br>45.998109, -121.532521<br>+45° 59' 53.19\", -121° 31' 57.08\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.532521,
+                    45.998109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "White Pass - 2302.8mi",
+                "desc": "Mail Drop -<br><br>- 0.7mi off trail<br>- Small Store<br>- Distance from trail: 0.50<br>- Section: OR H19White Pass Rural Branch P.O. <br>at the Kracker Barrel Store <br>48851 US Hwy 12 <br>Naches, WA 98937 <br>Please hold for 'Your Name'<br><br>46.639180, -121.388540<br>+46° 38' 21.05\", -121° 23' 18.74\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.38854,
+                    46.63918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Packwood WA - 2302.8mi",
+                "desc": "20mi hitch on Hwy 12<br>Full Resupply",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.670556,
+                    46.607322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Snoqualmie Pass WA - 2401.7mi",
+                "desc": "Mail Drop -<br><br>- 14mi hitch from Stevens Pass on Hwy 2<br>- 2 Large Convenience Stores<br>- Distance from trail: 0.25<br>- Section: WA I15P.O. Located at the Gas Station) The postmaster does not have room tostore packages in his little closet/office in the Chevron Station. <br>Packages are normally held at the Real Post Office way down the hill in North Bend. <br> <br>He will help us out if, You address the package to: <br> <br>Pacific Crest Trail Hiker <br>Your Name <br>Expected Time of Arrival (month/day/year) <br>c/o General Delivery <br>Snoqualmie Pass, WA 98068 <br> <br>THE WINDOW TO PICK UP PARCELS IS ONLY OPEN  <br>MON-SAT FROM 10 TO 12 A.M. <br> <br>The Summit Inn IS NOT currently accepting packages <br> <br>Your Name <br>c/o Summit Inn <br>603 State Route 906 <br>Snoqualmie Pass, WA 98068 <br> <br>Must be mailed via UPS AND you must have a <br>room reservation.<br><br>http://www.emeraldlake.com/pctguide - Snoqualmie Pass (http://www.emeraldlake.com/pctguide/pctsnoq.html)<br><br>47.422340, -121.411110<br>+47° 25' 20.42\", -121° 24' 40.00\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.41111,
+                    47.42234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Skykomish WA/The Dinsmores - 2476.3mi",
+                "desc": "Mail Drop -<br><br>- 14mi hitch from Stevens Pass on Hwy 2<br>- Convenience store with snacks<br>- Distance from trail: 16.00<br>- Section: WA J8<br>- Trail Angels: The Dinsmoreshttp://www.emeraldlake.com/pctguide - Skykomish (http://www.emeraldlake.com/pctguide/pctskyk.html)<br><br>47.708615, -121.360741<br>+47° 42' 31.01\", -121° 21' 38.67\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.360741,
+                    47.708615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stehekin, WA - 2574.1mi",
+                "desc": "Mail Drop -<br><br>- 10.6mi bus ride<br>- No Resupply<br>- Distance from trail: 10.75<br>- Section: WA K14<br>- Cash only<br>- BakeryYour Name<br>C/O General Delivery<br>Post Office<br>Stehekin, WA 98852<br><br>From May 15 to Oct 1 the Stehekin PO has the  <br>following schedule: <br> <br>Mail arrives daily beginning May 15. <br>Mon. 7:30-4:00 closed from 12:00 to 12:30 <br>Tues. 10:00-4:00 <br>Wed. 10:00-4:00 <br>Thurs.10:00-4:00 <br>Fri. 7:30-4:00 closed from 12:00 to 12:30 <br>Sat: 11:30-12:30 <br> <br>The office also closes to pick up and deliver  <br>mail at the boat landing. Mail Those times  <br>will be posted at the office. From July 1 to  <br>Oct 1 the mail comes in at 10:45 and goes out  <br>on the late boat. Mail close-out is at 3:30.<br><br>48.323261, -120.673897<br>+48° 19' 23.74\", -120° 40' 26.03\"",
+                "sym": "http://www.gstatic.com/mapspro/images/stock/109-postoffice-us.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.673897,
+                    48.323261
+                ]
+            }
+        }
+    ]
+}
